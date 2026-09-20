@@ -54,6 +54,28 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
 
 ---
 
+### Métricas e Estatísticas
+
+<div align="center">
+  <!-- Estatísticas Gerais -->
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=JustBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
+  </a>
+
+  <!-- Linguagens Mais Usadas -->
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
+  </a>
+
+  <!-- Sequência de Contribuições (Streak) -->
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JustBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ### 💻 Contate-me / Let's Connect
 
 <p align="center">
