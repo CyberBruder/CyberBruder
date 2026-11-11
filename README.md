@@ -74,7 +74,7 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
   <!-- Sequência de Contribuições (Streak) -->
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JustBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=CyberBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
   </a>
 </div>
 
