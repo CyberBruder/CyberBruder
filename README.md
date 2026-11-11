@@ -63,12 +63,12 @@ Atuo na interseção entre o desenvolvimento de aplicações back-end e a opera�
 <div align="center">
   <!-- Estatísticas Gerais -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=JustBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=CyberBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
   </a>
 
   <!-- Linguagens Mais Usadas -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CyberBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
   </a>
 
   <!-- Sequência de Contribuições (Streak) -->
