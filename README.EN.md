@@ -67,18 +67,18 @@ I operate at the intersection of back-end application development and secure CI/
 <div align="center">
   <!-- General Stats -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=JustBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=CyberBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
   </a>
 
   <!-- Most Used Languages -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CyberBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
   </a>
 
   <!-- Contribution Streak -->
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JustBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=CyberBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
   </a>
 </div>
 
