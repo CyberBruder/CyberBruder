@@ -1,0 +1,96 @@
+<p align="center">
+  <h1 align="center">✨ JustBruder ✨</h1>
+</p>
+
+<p align="center">
+  <img width="1280" height="368" alt="Sem título" src="https://github.com/user-attachments/assets/2b62669c-cbf3-4f3c-8d22-0f8a166e767a" />
+</p>
+
+<div align="right">
+  <a href="README.md">🇧🇷 Leia em Português</a>
+</div>
+
+<h3 align="center"> Back-End & DevSecOps Developer</h3>
+<p align="center"><em>Focused on integrating security into the software development life cycle (SDLC) — from code to deployment — through automation and robust infrastructure.</em></p>
+
+---
+
+### About Me
+
+I operate at the intersection of back-end application development and secure CI/CD pipeline operations. My technical foundation combines building reliable code with the proactive implementation of security controls and *Security by Design*.
+
+- **Back-End:** Building RESTful APIs and applications in **Java (OOP)**, **Python**, and data structuring with **JSON**.
+
+- **DevSecOps & Infrastructure:** Pipeline automation with **GitHub Actions**, scalable containerization using **Docker**, **Linux** environment management, plus hosting and deployment on platforms like **Vercel** and **Clever Cloud**.
+
+- **Cybersecurity & Quality:** Applying *least privilege* practices, secure credentials management (Secrets), quality and security analysis with **SonarCloud**, advanced access control with **Spring Security**, routine automation, and fundamentals of the OWASP Top 10.
+
+- **Database:** Modern management with **Neon Tech (PostgreSQL Serverless)**.
+
+
+---
+
+### 🌷 Tech Stack & Tools
+
+#### Languages & Back-End
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-C71585?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-C71585?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-C71585?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-C71585?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+
+#### DevSecOps, Infra, Cloud & QA
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-C71585?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-C71585?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-C71585?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-C71585?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-C71585?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clever_Cloud-C71585?style=for-the-badge&logo=clever-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarCloud-C71585?style=for-the-badge&logo=sonarcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-C71585?style=for-the-badge&logo=neon&logoColor=white" />
+</p>
+
+#### IDEs & Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-C71585?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-C71585?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-C71585?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### Metrics & Statistics
+
+<div align="center">
+  <!-- General Stats -->
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=JustBruder&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf&icon_color=ff2a85" alt="GitHub Stats" />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustBruder&layout=compact&hide_border=true&bg_color=00000000&title_color=ff2a85&text_color=ff80bf" alt="Top Langs" />
+  </a>
+
+  <!-- Contribution Streak -->
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JustBruder&background=00000000&border=00000000&ring=ff2a85&fire=ff2a85&currStreakNum=ff80bf&sideNums=ff80bf&sideLabels=ff80bf&dates=ff80bf" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 💻 Contate-me / Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
