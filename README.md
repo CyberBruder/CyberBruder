@@ -6,12 +6,9 @@
   <img width="1280" height="368" alt="Sem título" src="https://github.com/user-attachments/assets/2b62669c-cbf3-4f3c-8d22-0f8a166e767a" />
 </p>
 
-<hr />
 <div align="right">
-  <a href="README.md">🇺🇸 Read in English</a>
+  <a href="README.EN.md">🇺🇸 Read in English</a>
 </div>
-
-<hr />
 
 <h3 align="center"> Desenvolvedora Back-End & DevSecOps</h3>
 <p align="center"><em>Focada em integrar a segurança ao ciclo de vida de desenvolvimento (SDLC) — do código ao deploy — através de automação e infraestrutura robusta.</em></p>
